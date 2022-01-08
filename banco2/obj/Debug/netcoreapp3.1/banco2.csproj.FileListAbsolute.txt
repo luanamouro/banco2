@@ -1,0 +1,14 @@
+C:\imersao_logica\banco2\banco2\bin\Debug\netcoreapp3.1\banco2.exe
+C:\imersao_logica\banco2\banco2\bin\Debug\netcoreapp3.1\banco2.deps.json
+C:\imersao_logica\banco2\banco2\bin\Debug\netcoreapp3.1\banco2.runtimeconfig.json
+C:\imersao_logica\banco2\banco2\bin\Debug\netcoreapp3.1\banco2.runtimeconfig.dev.json
+C:\imersao_logica\banco2\banco2\bin\Debug\netcoreapp3.1\banco2.dll
+C:\imersao_logica\banco2\banco2\bin\Debug\netcoreapp3.1\banco2.pdb
+C:\imersao_logica\banco2\banco2\obj\Debug\netcoreapp3.1\banco2.csproj.AssemblyReference.cache
+C:\imersao_logica\banco2\banco2\obj\Debug\netcoreapp3.1\banco2.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\banco2\banco2\obj\Debug\netcoreapp3.1\banco2.AssemblyInfoInputs.cache
+C:\imersao_logica\banco2\banco2\obj\Debug\netcoreapp3.1\banco2.AssemblyInfo.cs
+C:\imersao_logica\banco2\banco2\obj\Debug\netcoreapp3.1\banco2.csproj.CoreCompileInputs.cache
+C:\imersao_logica\banco2\banco2\obj\Debug\netcoreapp3.1\banco2.dll
+C:\imersao_logica\banco2\banco2\obj\Debug\netcoreapp3.1\banco2.pdb
+C:\imersao_logica\banco2\banco2\obj\Debug\netcoreapp3.1\banco2.genruntimeconfig.cache
